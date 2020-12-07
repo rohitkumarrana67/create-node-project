@@ -1,0 +1,20 @@
+{
+  "name": "create-node-project",
+  "version": "1.0.0",
+  "description": "This will create basic directory structure for your nodejs api building project and will make your life easier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-node-project": "index.js"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "api",
+    "directory"
+  ],
+  "author": "ROHIT KUMAR RANA",
+  "license": "MIT"
+}
